@@ -1,0 +1,137 @@
+{"menu":[
+    {
+        "text":"Home",
+        "icon":"HomeOutlined",
+        "url":"/dashboard",
+        "submenu":[]
+    },
+    {
+        "text":"Inventory",
+        "icon":"Inventory2Outlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Administration",
+        "icon":"SupervisorAccountOutlined",
+        "url":"",
+        "submenu":[
+            {
+                "text":"Role",
+                "url" : "/admin/role"
+            },
+            {
+                "text":"Department",
+                "url" : ""
+            },
+            {
+                "text":"Title",
+                "url" : ""
+            },
+            {
+                "text":"User",
+                "url" : ""
+            },
+            {
+                "text":"Access Control",
+                "url" : ""
+            },
+            {
+                "text":"Audit",
+                "url" : ""
+            },
+            {
+                "text":"Task Transfer",
+                "url" : ""
+            },
+            {
+                "text":"Administration Alert",
+                "url" : ""
+            },
+            {
+                "text":"User Request",
+                "url" : ""
+            },
+            {
+                "text":"Mutilingual",
+                "url" : ""
+            },
+            {
+                "text":"Release User",
+                "url" : ""
+            }
+        ]
+    },
+    {
+        "text":"System",
+        "icon":"DesktopWindowsOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Assesment",
+        "icon":"AssignmentOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Project",
+        "icon":"BusinessCenterOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Requirement",
+        "icon":"ListAltOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Content",
+        "icon":"ArticleOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Execution",
+        "icon":"SettingsOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Schedule",
+        "icon":"ScheduleOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Risk",
+        "icon":"ReportProblemOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Change",
+        "icon":"PublishedWithChangesOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Monitor",
+        "icon":"MonitorOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Vault",
+        "icon":"AccountBalanceWalletOutlined",
+        "url":"",
+        "submenu":[]
+    },
+    {
+        "text":"Report",
+        "icon":"AssessmentOutlined",
+        "url":"",
+        "submenu":[]
+    }
+]}
