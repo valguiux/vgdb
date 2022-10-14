@@ -13,6 +13,6 @@ Menu API : http://localhost:5000/menu
 
 ## API URL in Dev Environment
 
-Menu API https://my-json-server.typicode.com/ValGenesis/vg-db/menu
+Menu API https://my-json-server.typicode.com/valguiux/vgdb/menu
 
 
