@@ -1,0 +1,11 @@
+{
+  "name": "vgdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch --port=5000 db.json"
+  },
+  "author": "Valgenesis",
+  "license": "ISC"
+}
